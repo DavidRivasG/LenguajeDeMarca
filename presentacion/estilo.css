@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(235, 235, 235);
+    align-items: center;
+}
+
+#foto{
+    width: 200px;
+    border-radius: 100%;
+    margin-bottom: 20px;
+}
+
+#hoja {
+    margin-top: 1%;
+    background-color: white;
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+}
+
+#titulo {
+    margin-top: 20px;
+}
+
+p {
+    margin-bottom: -10px;
+}
+
+#furbo{
+    margin-bottom: 30px;
+}
