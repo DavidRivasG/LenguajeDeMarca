@@ -28,3 +28,7 @@ p {
 #furbo{
     margin-bottom: 30px;
 }
+
+#formulario {
+    display: none;
+}
